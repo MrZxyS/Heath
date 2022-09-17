@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Heath</string>
+    <string name="login_txtUsername">Hello word!!!</string>
+    <string name="login_txtPassword">你好 世界!!!</string>
+</resources>
